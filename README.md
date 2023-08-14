@@ -1,3 +1,15 @@
+# Discription
+
+The "NYC Parking Tickets" project involved working with a substantial dataset of approximately 2.5GB from New York City's parking violations in the year 2020. This dataset, a comprehensive record of parking infractions, presented an opportunity to extract valuable insights and trends to improve parking management strategies.
+
+The core of the project revolved around data cleaning, exploration, and analysis. Leveraging Python libraries such as Pandas, Spark, Plotly, PyArrow, and Hadoop, I undertook the task of cleaning and processing the dataset in Google Colab. This involved handling diverse data formats, identifying missing values, and ensuring data consistency.
+
+By utilizing the power of PySpark, I efficiently managed the large dataset, allowing for scalable data manipulation and computation. PyArrow played a pivotal role in enhancing data processing speeds and interoperability, while Hadoop contributed to distributed storage and processing.
+
+The analysis phase of the project involved delving into parking violations on a granular level. I identified patterns based on streets, cars, time of occurrence, and types of violations. This segmentation enabled a more targeted understanding of the areas with high violation rates, the common types of violations, and the potential contributing factors.
+
+Moreover, I visualized these findings using Plotly, creating interactive plots and visual representations to make the insights more accessible and engaging. The visualizations not only helped in presenting the results effectively but also aided in communicating the identified trends to stakeholders.
+
 # NYC Parking Tickets 2020
 
 - Download full cvs file from [download csv](https://data.cityofnewyork.us/City-Government/Parking-Violations-Issued-Fiscal-Year-2020/p7t3-5i9s/data)
